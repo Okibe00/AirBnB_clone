@@ -1,14 +1,5 @@
 header {
-	background: white;
+	background: #FF0000;
 	height: 70px;
 	width: 100%;
-	border-bottom: 1px solid #CCCCCC;
-}
-
-header .logo {
-	position: relative;
-	left: 20px;
-	padding-top: 5px;
-	padding-bottom: 5px;
-
 }
