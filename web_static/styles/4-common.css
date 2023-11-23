@@ -3,6 +3,7 @@ body {
 	font-size: 14px;
 	color: #484848;
 	margin: 0;
+	padding: 0;
 }
 
 .container {
@@ -11,7 +12,7 @@ body {
 }
 
 .popover {
-	margin-top: 19px;
+	margin-top: 19.5px;
 	box-sizing: border-box;
 	list-style-type: none;
 	z-index: 1;
