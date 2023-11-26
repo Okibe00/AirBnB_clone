@@ -48,34 +48,18 @@ button {
 }
 
 .popover h2 {
-	position: relative;
-	right: 35px;
 	margin-bottom: 0;
-	padding-left: 4px;
-}
-.popover li {
-	position:relative;
-	right: 10px;
-}
-.first-state-list{
-	margin-bottom: 0;
-	border-bottom: none;
-	display: none;
-	padding-top: 20px;
-	border-radius: 4px;
-}
-.second-state-list {
-	margin-top: -20px;
-	border-top: none;
-	display: none;
-	border-radius: 4px;
 }
 
 .am-list {
 	padding-top: 30px;
-	margin-left: -2px;
+	margin-left: -1px;
 	border-radius: 4px;
 	display: none;
+	padding-bottom: 30px;
+}
+.am-list li {
+	padding-left: 35px;
 }
 .locations:hover .popover {
 	display: block;
